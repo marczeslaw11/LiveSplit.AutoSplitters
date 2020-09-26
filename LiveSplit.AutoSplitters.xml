@@ -9992,4 +9992,15 @@
         <Description>Load removal (by Wafu)</Description>
         <Website>https://github.com/KawaiiWafu/ASLScripts</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>POTTERGAME</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/marczeslaw11/LoadRemovers/master/Pottergame_loadremover.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover for POTTERGAME by marczeslaw</Description>
+        <Website>https://github.com/marczeslaw11/LoadRemovers/blob/master/Pottergame_loadremover.asl</Website>
+    </AutoSplitter>
 </AutoSplitters>
