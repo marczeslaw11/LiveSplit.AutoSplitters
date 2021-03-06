@@ -9992,7 +9992,7 @@
         <Description>Load removal (by Wafu)</Description>
         <Website>https://github.com/KawaiiWafu/ASLScripts</Website>
     </AutoSplitter>
-        <AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Harry Potter and the Order of the Phoenix (PC)</Game>
             <Game>Harry Potter and the Order of the Phoenix</Game>
